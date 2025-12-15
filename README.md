@@ -1,6 +1,6 @@
 # 🏦 Bank Deposit Subscription Prediction
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Tasnim-Touati/Bank-Deposit-Subscription-Prediction/main?filepath=bank_marketing_prediction.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Tasnim-Touati/Bank-Deposit-Subscription-Prediction/main?filepath=Bank-Deposit-Subscription-Prediction.ipynb)
 
 ## Overview
 
